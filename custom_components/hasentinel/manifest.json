@@ -1,0 +1,11 @@
+
+{
+    "domain": "hasentinel",
+    "name": "HASentinel",
+    "documentation": "https://github.com/dennis-bell/HASentinel",
+    "codeowners": ["@dennis-bell"],
+    "requirements": [],
+    "dependencies": [],
+    "version": "0.0.1",
+    "iot_class": "local_polling"
+}
